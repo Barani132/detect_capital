@@ -1,4 +1,5 @@
 class Solution:
+    
     def detectCapitalUse(self, word):
         count = 0
         length = len(word)
